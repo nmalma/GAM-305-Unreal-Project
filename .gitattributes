@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-# * text=LF
+* text=LF
 
 # UE file types
 *.uasset filter=lfs diff=lfs merge=lfs -text
