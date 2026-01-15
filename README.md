@@ -1,5 +1,6 @@
 # GAM-305-Unreal-Project
 Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
+** We all worked on this together in a team meeting, so we all contributed together :)
 
 ## Module Two Team Project Plan
   ### Choose a scenario and select the four additional elements you will include.
