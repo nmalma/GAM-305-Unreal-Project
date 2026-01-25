@@ -6,18 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Map/Banuelos_TestLevel.umap",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/BP_PlayerChar.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/Actions/IA_Move.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/IMC_SideScroller.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/GM_SideScroller.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/Actions/IA_Jump.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/BP_PlayerController.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/SideScrollPlayer/BP_PlayerChar.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Inputs/Mapping_SideScroller.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Inputs/Action/InputA_Move.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/SideScrollPlayer/GameM_SideScroller.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Inputs/Action/InputA_Jump.uasset",
-				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/SideScrollPlayer/BP_PaperPlayerChar.uasset"
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/SideScrollPlayer/BP_PaperPlayerChar.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Pickups/BP_CollectiblePickup.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Inputs/Action/InputA_Interact.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/BP_PlayerChar.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/Actions/IA_Move.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/IMC_SideScroller.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/GM_SideScroller.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Input/Actions/IA_Jump.uasset",
+				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Player/BP_PlayerController.uasset"
 			]
 		}
 	]

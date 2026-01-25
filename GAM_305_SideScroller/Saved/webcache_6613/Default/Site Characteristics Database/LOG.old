@@ -1,5 +1,1 @@
-2026/01/20-11:05:02.114 e18 Log #3: 2 ops saved to Table #4 OK
-2026/01/20-11:05:02.118 e18 Archiving C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/20-11:05:02.119 e18 Table #4: 2 entries OK
-2026/01/20-11:05:02.123 e18 Archiving C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/20-11:05:02.140 e18 **** Repaired leveldb C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/01/20-11:05:02.157 e18 Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
