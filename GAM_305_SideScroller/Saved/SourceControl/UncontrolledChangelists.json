@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/NewMap.umap",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/NewMap.umap",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TestBlocking.umap",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/CatTreeTestP1.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/CatTreeTestPart1.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/CatTreeTestFloor.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/CatTreeTestPole.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/CatTreeTestCatBox.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/Material.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/TestStool.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/TestChair.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TempFurnature/TestTable.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/LevelBlockingTest.umap"
+			]
+		}
+	]
+}
