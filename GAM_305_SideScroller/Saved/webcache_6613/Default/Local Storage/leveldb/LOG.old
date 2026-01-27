@@ -1,2 +1,3 @@
-2026/01/20-11:05:02.105 511c Creating DB C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/01/20-11:05:02.139 511c Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/25-10:29:47.152 9348 Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/25-10:29:47.165 9348 Recovering log #3
+2026/01/25-10:29:47.169 9348 Reusing old log C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
