@@ -59,3 +59,24 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
       > Bugs will be reported in our test plan in the reports tab and communicate with each other about the reports in Discord.
 ### How will the bugs and their changes be tracked over time?
       > The bugs and their changes will be tracked via our test plan where we can write down in detail any updates to it.
+
+## Module Four Project Log - Team Reflection
+Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
+** We all worked on this together in a team meeting, so we all contributed together :)
+
+### - What parts of the testing process did the team perceive to go well?
+      > Alexis, our level designer, had very minute issues. Since she is making the models in Blender, she has had to scale them in Unreal Engine so they are the proper size, but that's not as much of a bug and more of how Unreal Engine interprets the size of Blender models.
+      Brie, one of our programmers, has made a lot of progress with the player movement, jumping, obstacle mechanics, and collectable mechanics. Going very smoothly, and when she has hit a roadblock has research solutions or took a break to tackle the problem with a pair of fresh eyes.
+      Emma, our other programmer, is working on the Enemy AI and AI behaviors. She hasn't done much testing yet, but so far has gone well.
+### - How were bugs identified and corrected?
+      > For Brie, she has gotten yellow errors and searched up solutions on why those errors were happening based on the information given.
+      For Emma, the only bug she's encountered was when she used the wrong node for the enemy behavior. She also identified a problem in our Github Repository, being that it was still tracking files in the /Saved and /Immediate folders (which are mostly cache and irrelevant information to us) and was able to add them to the .gitignore file.
+### - In terms of the QA and testing process, what would you do differently to improve the process?
+      > For Brie, she would have done the pickups and obstacles earlier so we could have that tested earlier.
+      > For Emma, she wouldn't have done anything differently.
+### - What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+      > We have a traceability matrix, test plan, and assets list in our Github Repository that has helped us greatly in updating our progress in the development of the game. Using Discord as our main form of communication, it has made communicating and updating each other on what we are doing much easier. We have also used Github Desktop to push and pull from origin, and create new branches onto the repository from our local computers. It's basically GitBash, but a lot more friendly looking and easier to understand. 
+### - Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+      > Alexis does not like having to scale the models from Blender to Unreal Engine. Brie and Emma do not have any issues. 
+### - How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+      > The tools and techniques have helped us stay organized, scheduled, and keep us accountable.
