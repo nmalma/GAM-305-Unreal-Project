@@ -71,6 +71,7 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
 ### - How were bugs identified and corrected?
       > For Brie, she has gotten yellow errors and searched up solutions on why those errors were happening based on the information given.
       For Emma, the only bug she's encountered was when she used the wrong node for the enemy behavior. She also identified a problem in our Github Repository, being that it was still tracking files in the /Saved and /Immediate folders (which are mostly cache and irrelevant information to us) and was able to add them to the .gitignore file.
+      For Dee (Dustin), she had a problem with Unreal Engine not being installed on her computer for a while. Luckily, she's only been making sprites and art which doesn't directly require use of the engine. And thankfully, she has been able to have Unreal Engine on her computer now after resetting her computer.
 ### - In terms of the QA and testing process, what would you do differently to improve the process?
       > For Brie, she would have done the pickups and obstacles earlier so we could have that tested earlier.
       > For Emma, she wouldn't have done anything differently.
