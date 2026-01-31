@@ -1,15 +1,6 @@
-[42316:37704:0131/142612.196:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[42316:37704:0131/142612.243:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[42316:32784:0131/142612.298:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[42316:37704:0131/142612.347:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23800:36496:0131/142616.097:ERROR:backend_impl.cc(989)] Critical error found -8
-[23800:36496:0131/142616.125:WARNING:storage_block-inl.h(138)] Failed data load.
-[25480:45148:0131/142616.218:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2730DDAB3BCEF800DA4D8226F9C64142 will be ignored
-[42316:32728:0131/142616.622:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[42316:37704:0131/142616.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42316:37704:0131/142616.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42316:37704:0131/142616.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42316:37704:0131/142616.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42316:32728:0131/142616.803:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[31376:30604:0131/142823.722:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[42316:37704:0131/152453.128:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[80528:82048:0131/152829.731:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[80528:82048:0131/152829.754:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[80528:82048:0131/152829.794:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[86592:93036:0131/152834.060:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E7AF8E19FF5FF07BD7E38DE3741F9BCF will be ignored
+[91160:83508:0131/152835.651:ERROR:entry_impl.cc(1029)] No file for 80000010
+[80528:82048:0131/153653.936:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
