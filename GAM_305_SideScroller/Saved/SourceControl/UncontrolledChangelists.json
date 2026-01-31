@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/LevelPrototyping/Alexis_LevelBlocking/TestBlocking.umap",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Pickups/BP_CollectiblePickup.uasset",
+				"D:/UE_5.7/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Pickups/NewMaterial.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Obstacles/BP_CatnipRestart.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Obstacles/BP_HairballSlow.uasset",
+				"C:/Users/Alice/Documents/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Obstacles/BP_YarnballBounce.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Obstacles/BP_CatnipRestart.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/SideScrollPlayer/GameM_SideScroller.uasset",
 				"C:/Dev/BBanuelos_GAM305/TeamRepo/GAM-305-Unreal-Project/GAM_305_SideScroller/Content/Bri/Map/Banuelos_TestLevel.umap",
