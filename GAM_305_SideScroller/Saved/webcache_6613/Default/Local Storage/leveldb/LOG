@@ -1,3 +1,4 @@
-2026/01/31-16:06:22.430 9b1c Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/31-16:06:22.446 9b1c Recovering log #3
-2026/01/31-16:06:22.450 9b1c Reusing old log C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/01/31-18:55:11.538 268c Creating DB C:\Users\emmak\Documents\Unreal Projects\GAM-305-Unreal-Project-main\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/01/31-18:55:11.558 268c Reusing MANIFEST C:\Users\emmak\Documents\Unreal Projects\GAM-305-Unreal-Project-main\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/31-18:55:11.566 268c Recovering log #3
+2026/01/31-18:55:11.567 268c Reusing old log C:\Users\emmak\Documents\Unreal Projects\GAM-305-Unreal-Project-main\GAM_305_SideScroller\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
