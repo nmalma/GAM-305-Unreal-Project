@@ -1,5 +1,11 @@
-[21112:13040:0131/220829.829:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21112:6984:0131/220829.881:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21112:13040:0131/220829.891:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27164:7360:0131/220834.596:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5C72C9192009B889B812147745E00EB3 will be ignored
-[21112:13040:0131/221042.532:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6476:88776:0201/004536.949:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6476:88776:0201/004537.775:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[6476:88776:0201/004538.723:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6476:88776:0201/004610.033:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[82528:95896:0201/004628.702:ERROR:backend_impl.cc(989)] Critical error found -8
+[82528:95896:0201/004628.734:WARNING:storage_block-inl.h(138)] Failed data load.
+[82528:95896:0201/004628.734:WARNING:storage_block-inl.h(138)] Failed data load.
+[82528:95896:0201/004628.734:ERROR:entry_impl.cc(955)] Failed to save user data
+[6476:88776:0201/010555.454:ERROR:device_event_log_impl.cc(196)] [01:05:55.308] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6476:88776:0201/011458.239:ERROR:device_event_log_impl.cc(196)] [01:14:58.236] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6476:88776:0201/012452.706:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
