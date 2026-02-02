@@ -1,3 +1,4 @@
-2026/02/01-09:47:02.042 1d94 Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
-2026/02/01-09:47:02.043 1d94 Recovering log #3
-2026/02/01-09:47:02.043 1d94 Reusing old log C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\shared_proto_db/000003.log 
+2026/02/01-18:47:49.047 958c Creating DB C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\shared_proto_db since it was missing.
+2026/02/01-18:47:49.061 958c Reusing MANIFEST C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/02/01-18:47:49.070 958c Recovering log #3
+2026/02/01-18:47:49.070 958c Reusing old log C:\Dev\BBanuelos_GAM305\TeamRepo\GAM-305-Unreal-Project\GAM_305_SideScroller\Saved\webcache_6613\Default\shared_proto_db/000003.log 
