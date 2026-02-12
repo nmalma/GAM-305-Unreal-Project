@@ -1,8 +1,8 @@
 # GAM-305-Unreal-Project
 
 ## Module Two Team Project Plan
-Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
-** We all worked on this together in a team meeting, so we all contributed together :)
+**Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen**
+- We all worked on this together in a team meeting, so we all contributed together :)
 
 
 **Choose a scenario and select the four additional elements you will include.**
@@ -49,8 +49,8 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
 
 
 ## Module Three Project Log - Team Development: QA and Testing Plan
-Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
-** We all worked on this together in a team meeting, so we all contributed together :)
+**Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen**
+- We all worked on this together in a team meeting, so we all contributed together :)
 
 
 **How will you test objects, levels, and games during the development cycle? Develop a schedule and include:**
@@ -77,7 +77,7 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
 
 ## Module Four Project Log - Team Reflection
 Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
-** We all worked on this together in a team meeting, so we all contributed together :)
+- We all worked on this together in a team meeting, so we all contributed together :)
 
 **What parts of the testing process did the team perceive to go well?**
 - Alexis, our level designer, had very minute issues. Since she is making the models in Blender, she has had to scale them in Unreal Engine so they are the proper size, but that's not as much of a bug and more of how Unreal Engine interprets the size of Blender models.
@@ -103,7 +103,7 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
 - The tools and techniques have helped us stay organized, scheduled, and keep us accountable.
 
 ## Module Five Project Log - Team Reflection
-Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
+**Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen**
 ** We all worked on this together in a team meeting, so we all contributed together :)
 
 **What parts of the plan did the team perceive to go well in relation to the last stage evaluation?**
@@ -128,3 +128,27 @@ Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen
 - The player character, pickups, and enemy sprites still need to be added.
 - Car Toy Enemy is a WIP
 - Main menu is a WIP. Still need to add the title and backstory.
+
+## Module Six Project Log - Team Reflection
+**Bri Banuelos, Emma Kurtz, Nikki Malmanger, Dustin Prinkley, Alexis Skeen**
+** We all worked on this together in a team meeting, so we all contributed together :)
+
+**What parts of the plan did the team perceive to go well in relation to the last stage evaluation?**
+- Nikki: After we had to pivot one of the enemy designs to a toy car due to programming issues, making the spritesheet for it wasn't bad at all. And earlier in development, we had a similar blueprint we used for the making of the toy car.
+- Brie: All the pickups were able to be made and function with little issue. The lure pickup had to change slightly from the original concept, but it still works.
+- Alexis: Since we did the spritework early, implementing them in the engine was easier than having to space out the sprites later in development.
+- Emma: The new Enemy AI works well and as intended. The UI in-game works well too.
+
+**What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?**
+- We had a little trouble with implementing the checkpoints.
+- The LFS budget was exceeded in our repository due to our build and zip files being in our repository and in all across of our branches. Nikki had to enable the budget to exceed its limit for the sake of getting the project finished, and we contacted the professor to let her know that Nikki will have to make a new repository in hopes to bypass paying GitHub for exceeding the LFS budget.
+
+**How were the previous evaluations integrated into this latest stage?**
+- We implemented a main menu that included a backstory section.
+- We removed checkpoints from our development because they were causing a critical error.
+
+**What would you do differently to improve the collaboration or development process?**
+- We should have tested the repository earlier and checked the LFS budget so we did not have to exceed and our pushes to the repository be stopped.
+
+**Were there any tools or techniques that you did not find helpful in the success of your project development? Why?**
+- GitHub did give us a big problem with stopping us from pushing our changes, as the error it provided was not clear to us and we ended up digging solutions online for hours as to why the error was happening. It turned out to be a simple checkmark Nikki had to unselect for a temporary solution.
